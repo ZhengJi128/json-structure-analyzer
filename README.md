@@ -28,6 +28,7 @@ pip install -r requirements.txt
 python json_analys/json_analys.py --file path/to/your/file.json --output output_dir
 ```
 
+### 分析文件夹所有json文件生成格式分析报告
 
 ```bash
 python json_analys/json_analys.py --folder path/to/json/folder --output output_dir
